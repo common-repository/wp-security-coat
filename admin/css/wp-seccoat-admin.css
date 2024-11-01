@@ -1,0 +1,46 @@
+/**
+ * styling for all the pages 
+ */
+
+.wp_seccoat-metaboxes fieldset{
+    
+    margin: 30px;
+    }
+    
+    .wp-seccoat-header-image{
+        
+    width: 200px !important;
+    display: block;
+    margin: 20px auto;
+
+        
+    }
+    
+    .feature_styling{
+        font-size: 20px !important; 
+        color: black !important;
+        
+    }
+    
+    .bordegezi{
+        
+        border-left: 5px solid #0083bb;
+        
+    }
+    
+    
+    .hoverera{
+        
+     box-shadow: 0 15px 20px #d8d8d8;   
+        
+    }
+    
+
+
+.meta-box-sortables.ui-sortable.active{
+
+border-left: 5px solid rgb(0, 131, 187) !important;
+
+box-shadow: 5px 5px 10px rgba(0, 131, 187, 0.1) !important;
+
+}
